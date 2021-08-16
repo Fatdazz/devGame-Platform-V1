@@ -1,3 +1,9 @@
+/// @DnDAction : YoYo Games.Common.Function_Call
+/// @DnDVersion : 1
+/// @DnDHash : 7AA62EA3
+/// @DnDArgument : "function" "get_input_advance_create"
+get_input_advance_create();
+
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 1E7CA750

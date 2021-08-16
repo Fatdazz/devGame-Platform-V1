@@ -1,3 +1,11 @@
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 1E35666E
+/// @DnDDisabled : 1
+/// @DnDArgument : "expr" "image_index mod 4"
+/// @DnDArgument : "var" "image_index"
+
+
 /// @DnDAction : YoYo Games.Drawing.Draw_Sprite_Transformed
 /// @DnDVersion : 1
 /// @DnDHash : 0207999B
